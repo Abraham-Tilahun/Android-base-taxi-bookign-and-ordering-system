@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "181125214307",
+    "project_id": "final-project-taxibook",
+    "storage_bucket": "final-project-taxibook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181125214307:android:deadabfee9ba1dfa70c856",
+        "android_client_info": {
+          "package_name": "com.example.otaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181125214307-kak7ldlb85t4otucngucn3kpsl3huioi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.otaxi",
+            "certificate_hash": "e94e2987baddd8601afd839b92a1b23cf0943601"
+          }
+        },
+        {
+          "client_id": "181125214307-300bc9g1foacil2hpsfnh32e4q8ud385.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYw0OM4bJRpwYBNfYP4quFV6LrL_UOCtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181125214307-300bc9g1foacil2hpsfnh32e4q8ud385.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
